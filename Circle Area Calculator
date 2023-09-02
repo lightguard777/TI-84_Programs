@@ -1,2 +1,3 @@
-Input "ENTER RAIDIUS",R
+ClrHome
+Input "ENTER RADIUS ",R
 Disp R*R*π
