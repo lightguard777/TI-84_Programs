@@ -1,0 +1,2 @@
+Input "ENTER RAIDIUS",R
+Disp R*R*π
