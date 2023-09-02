@@ -1,0 +1,3 @@
+ClrHome
+Input "ENTER RADIUS ",R
+Disp R*2*π
